@@ -19,9 +19,8 @@ Looks like you managed to find my GitHub profile!👽
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&card_width=350" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical&card_width=350" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical&card_width=350" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=staskine&show_icons=true&theme=tokyonight&card_width=350" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=staskine&theme=tokyonight&card_width=350" alt="GitHub Streak" />
 </div>
 
 
