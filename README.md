@@ -15,8 +15,8 @@ Looks like you managed to find my GitHub profile!👽
 
 ## 🔧 Languages 
 
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C" **alt="C" width="40" height="40"/>
 --
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=staskine&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 
