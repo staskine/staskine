@@ -32,12 +32,6 @@ Looks like you managed to find my GitHub profile!👽
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=staskine&theme=tokyonight&card_width=350" alt="GitHub Streak" />
 </div>
 
-
----
-
-## 🌐 Connect with Me!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahra-taskinen-15314830b/)
-
 ---
 
 ## ✨ Fun Quote (Cause why not?)
