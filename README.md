@@ -21,8 +21,6 @@ Looks like you managed to find my GitHub profile!👽
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="C" **alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="C" **alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=staskine&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </div>
 
 ---
@@ -30,7 +28,7 @@ Looks like you managed to find my GitHub profile!👽
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=staskine&show_icons=true&theme=tokyonight&card_width=350" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=staskine&layout=compact&theme=tokyonight" alt="Most Used Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=staskine&theme=tokyonight&card_width=350" alt="GitHub Streak" />
 </div>
 
