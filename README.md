@@ -7,7 +7,7 @@ Looks like you managed to find my GitHub profile!👽
 - 👽 **Currently Learning**: Coding using C and C++
 - ✨ **Hobbies/Interests**: Currently trying to finish my movie and book collections!
 
-  I'm an aspiring coder and future/present problem solver! I have a love/hate relationship with debugging since I'm good at it but debugging also means something has gone wrong.
+  I'm an aspiring coder and future/present problem solver! I have a love/hate relationship with debugging which is probably what every coder can agree on even if I'm good at it.
   I'm currently reaching the end of my studies at Hive Helsinki and looking for internships/junior positions. Don't be afraid of reaching
   out to me via linkedin if any questions regarding my projects, work opportunities (nudge nudge) or if you just want to chat. 👩‍🚀
 
