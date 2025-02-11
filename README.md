@@ -33,7 +33,3 @@ Looks like you managed to find my GitHub profile!👽
 </div>
 
 ---
-
-## ✨ Fun Quote (Cause why not?)
-- "That which is clearly known hath less terror than that which is but hinted at and guessed."
-- - Wonder if anyone can figure out the mystery of where this is from?
