@@ -3,13 +3,13 @@ Looks like you managed to find my GitHub profile!👽
 
 ## 🌟 About Me
 
-- 💻 **Studies**: I'm currently studying at Hive Helsinki
-- 👽 **Currently Learning**: Coding using C and C++
-- ✨ **Hobbies/Interests**: Currently trying to finish my movie and book collections!
+- 💻 **Studies**: In the final stretch of my software engineering studies at Hive Helsinki!
+- 👽 **Currently Learning**: Deepening my skills in C and C++ while staying curious and open to new tools and technologies
+- ✨ **Hobbies/Interests**: Growing my movie and book collections (always happy to hear recommendations)
 
-  I'm an aspiring coder and future/present problem solver! I have a love/hate relationship with debugging which is probably what every coder can agree on even if I'm good at it.
-  I'm currently reaching the end of my studies at Hive Helsinki and looking for internships/junior positions. Don't be afraid of reaching
-  out to me via linkedin if any questions regarding my projects, work opportunities (nudge nudge) or if you just want to chat. 👩‍🚀
+  I'm an aspiring developer with a strong interest in solving real-world problems through code. Debugging can test my patience, but it’s also where I learn the most, and I’ve come to embrace it. As I approach the end of my studies at Hive Helsinki, I’m   actively looking for internship or junior developer opportunities where I can continue learning, growing, and making meaningful contributions.
+
+  If you're curious about my projects, have an opportunity to share, or just want to connect, feel free to reach out on LinkedIn. I'm always open to a good tech chat or a new challenge 👩‍🚀
 
 ---
 
@@ -33,3 +33,10 @@ Looks like you managed to find my GitHub profile!👽
 </div>
 
 ---
+
+
+
+
+
+
+
